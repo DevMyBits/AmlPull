@@ -49,7 +49,7 @@ import java.io.InputStream;
  * @Version 1.1
  * @Created  : vendredi 14 février 2025
  * @Author   : Yoann Meclot (DevMyBits)
- * @E-mail   : yoannmeclot@hotmail.com
+ * @E-mail   : devmybits@gmail.com
  * @see AmlPullWriter
  */
 public interface AmlPullParser

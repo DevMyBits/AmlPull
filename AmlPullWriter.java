@@ -45,7 +45,7 @@ import java.io.OutputStream;
  * @Version 1.1
  * @Created  : vendredi 18 avril 2025
  * @Author   : Yoann Meclot (DevMyBits)
- * @E-mail   : yoannmeclot@hotmail.com
+ * @E-mail   : devmybits@gmail.com
  * @see AmlPullParser
  */
 public interface AmlPullWriter

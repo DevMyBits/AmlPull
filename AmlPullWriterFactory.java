@@ -4,7 +4,7 @@ import java.io.OutputStream;
 /**
  * Créer le : vendredi 18 avril 2025
  * Auteur     : Yoann Meclot (DevMyBits)
- * E-mail      : yoannmeclot@hotmail.com
+ * E-mail      : devmybits@gmail.com
  */
 final class AmlPullWriterFactory implements AmlPullWriter
 {
