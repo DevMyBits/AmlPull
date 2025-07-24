@@ -2,7 +2,7 @@ import java.io.IOException;
 
 /**
  * Créer le : vendredi 18 avril 2025
- * Auteur : Yoann Meclot (MSay2)
+ * Auteur : Yoann Meclot (DevMyBits)
  * E-mail : yoannmeclot@hotmail.com
  */
 public class AmlPullWriterException extends IOException

@@ -2,7 +2,7 @@ import java.io.IOException;
 
 /**
  * Créer le : vendredi 14 février 2025
- * Auteur : Yoann Meclot (MSay2)
+ * Auteur : Yoann Meclot (DevMyBits)
  * E-mail : yoannmeclot@hotmail.com
  */
 public class AmlPullParserException extends IOException

@@ -48,7 +48,7 @@ import java.io.InputStream;
  * @since 1.0
  * @Version 1.1
  * @Created  : vendredi 14 février 2025
- * @Author   : Yoann Meclot (MSay2)
+ * @Author   : Yoann Meclot (DevMyBits)
  * @E-mail   : yoannmeclot@hotmail.com
  * @see AmlPullWriter
  */
